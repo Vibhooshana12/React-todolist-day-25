@@ -63,11 +63,11 @@ todolist-app/
 
 Create the following components in the src/components directory:
 
-   -`Form.jsx`
-   
-   -`Filter.jsx`
-   
-   -`Cards.jsx`
+         -`Form.jsx`
+         
+         -`Filter.jsx`
+         
+         -`Cards.jsx`
 
 3.Run the development server:
 
