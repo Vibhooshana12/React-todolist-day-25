@@ -27,16 +27,27 @@ todolist-app/
 │ └── index.html
 
 ├── src/
+
 │ ├── components/
+
 │ │ ├── Cards.jsx
+
 │ │ ├── Filter.jsx
+
 │ │ └── Form.jsx
+
 │ ├── App.css
+
 │ ├── App.jsx
+
 │ ├── index.css
+
 │ ├── index.js
+
 ├── .gitignore
+
 ├── package.json
+
 ├── README.md
 
 ## Project Setup
