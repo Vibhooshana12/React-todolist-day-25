@@ -13,43 +13,35 @@ A simple and responsive Todo application built using React and styled with Boots
 
 ## Demo
 
-Check out the live demo of the project [here] https://vibhooshana-todolist-36c73d.netlify.app/.
+Check out the live demo of the project [here](https://vibhooshana-todolist-36c73d.netlify.app/).
 
 ## Folder Structure
 
 todolist-app/
-
 ├── node_modules/
-
 ├── public/
-
-│ ├── favicon.ico
-
-│ └── index.html
-
+│   ├── favicon.ico
+│   └── index.html
 ├── src/
-
-│ ├── components/
-
-│ │ ├── Cards.jsx
-
-│ │ ├── Filter.jsx
-
-│ │ └── Form.jsx
-
-│ ├── App.css
-
-│ ├── App.jsx
-
-│ ├── index.css
-
-│ ├── index.js
-
+│   ├── components/
+│   │   ├── Cards.jsx
+│   │   ├── Filter.jsx
+│   │   └── Form.jsx
+│   ├── App.css
+│   ├── App.jsx
+│   ├── index.css
+│   ├── index.js
 ├── .gitignore
-
 ├── package.json
-
 ├── README.md
+
+## Project Setup
+
+1. Set up your React application:
+
+   ```bash
+   npx create-react-app todo-app
+   cd todo-app
 
 ## Project Setup
 
@@ -61,15 +53,17 @@ cd todolist-app
 2. Add Components
 Create the following components in the src/components directory:
 
-├── src/
-│ ├── components/
-│ │ ├── Form.jsx
-│ │ ├── Filter.jsx
-│ │ └── Cards.jsx
+Create the following components in the src/components directory:
+
+-`Form.jsx`
+-`Filter.jsx`
+-`Cards.jsx`
 
 3.Run the development server:
 
-npm start
+To start the development server, use the following command:
+
+       npm start
 
 4.Open your browser and navigate to http://localhost:3000 to see the application.
 
@@ -78,14 +72,13 @@ npm start
 To deploy your application:
 
 1. Build the project:
-
-npm run build
-
-2. Deploy the build folder to Netlify.
-
-## Acknowledgements
-
--React for the JavaScript library.
--Bootstrap for styling.
--Netlify for providing the platform to deploy the application.
+   ```bash
+   npm run build
    
+2. Deploy the `build` folder to Netlify.
+
+### Acknowledgements
+
+React for the JavaScript library.
+Bootstrap for styling.
+Netlify for providing the platform to deploy the application.ion.
