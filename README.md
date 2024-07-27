@@ -19,9 +19,13 @@ Check out the live demo of the project [here] https://vibhooshana-todolist-36c73
 
 todolist-app/
 ├── node_modules/
+
 ├── public/
+
 │ ├── favicon.ico
+
 │ └── index.html
+
 ├── src/
 │ ├── components/
 │ │ ├── Cards.jsx
