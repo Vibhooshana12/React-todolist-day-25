@@ -61,21 +61,25 @@ todolist-app/
 
 2. Add Components
 
-Create the following components in the src/components directory:
 
-         -`Form.jsx`
-         
-         -`Filter.jsx`
-         
-         -`Cards.jsx`
+   Create the following components in the src/components directory:
 
-3.Run the development server:
+   -`Form.jsx`
+   
+   -`Filter.jsx`
+   
+   -`Cards.jsx`
 
-To start the development server, use the following command:
+4. Run the development server:
+
+   To start the development server, use the following command:
+
+   ```bash
 
      npm start
-
-4.Open your browser and navigate to http://localhost:3000 to see the application.
+   
+5. Open your browser and navigate to http://localhost:3000 to see the application.
+   
 
 ## Deployment
 
