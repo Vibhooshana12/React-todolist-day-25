@@ -1,0 +1,59 @@
+.title{
+    color:rgba(243, 111, 23, 0.966);
+    margin-bottom:35px
+}
+.container{
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 25px;
+}
+#Filter{
+    margin-left: 25px;
+}
+.todo-card .Not-Completed {
+    background-color: #e23134;
+    border:#fe8083;
+    color: #fff;
+}
+.todo-card .Completed {
+    background-color:#05c76c;
+    border: #13ad88;
+    color: #fff;
+}
+.filter-select{
+    border: 2px solid;
+}
+.todo-form .form-control{
+    border: 1px solid rgb(109, 107, 107);
+    border-radius: 5px;
+    border-bottom:2px solid rgba(243, 111, 23, 0.966);
+    transition: border-color 0.3s ease;
+}
+.todo-form .form-control:hover {
+    border: 1px solid rgba(243, 111, 23, 0.966);
+    border-bottom: 2px solid rgba(243, 111, 23, 0.966);
+}
+.todo-card .card-header{
+    color:rgb(250, 250, 255);
+    background-color:rgba(243, 111, 23, 0.966);
+    font-size: larger;
+    
+}
+
+.todo-card .display{
+    background-color: rgb(49, 49, 49);
+}
+
+.status-filter{
+      justify-content: space-between;
+      padding-top: 50px;
+      color:rgba(243, 111, 23, 0.966);
+}
+.d-flex{
+    display: flex;
+}
+.align-items-center{
+    align-items:center
+}
+.Add{
+    border: 2px solid rgba(243, 111, 23, 0.966);
+}
