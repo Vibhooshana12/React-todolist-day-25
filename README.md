@@ -43,16 +43,7 @@ todolist-app/
    npx create-react-app todo-app
    cd todo-app
 
-## Project Setup
-
-1. Set up your React application:
-   
-npx create-react-app todo-app
-cd todolist-app
-
 2. Add Components
-Create the following components in the src/components directory:
-
 Create the following components in the src/components directory:
 
 -`Form.jsx`
