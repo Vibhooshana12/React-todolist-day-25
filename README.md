@@ -18,7 +18,9 @@ Check out the live demo of the project [here] https://vibhooshana-todolist-36c73
 ## Folder Structure
 
 todolist-app/
+
 ├── node_modules/
+
 ├── public/
 │ ├── favicon.ico
 │ └── index.html
